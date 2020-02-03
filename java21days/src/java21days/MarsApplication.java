@@ -1,5 +1,4 @@
 package java21days;
-// import MarsRobot from 
 
 class MarsApplication {
   public static void main(String[] arguments) {
