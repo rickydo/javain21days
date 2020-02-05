@@ -12,6 +12,6 @@ public class Weather {
     System.out.println(cel + " degrees Celsius is ...");
 
     cel = ( cel * 9 ) / 5 + 32;
-    System.out.println(cel + " degrees Fahrenheit");;
+    System.out.println(cel + " degrees Fahrenheit");
   }
 }
