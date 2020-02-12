@@ -1,0 +1,138 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Averager",
+      "request": "launch",
+      "mainClass": "java21days.Averager",
+      "projectName": "java21days",
+      "args": [1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<java21days>",
+      "request": "launch",
+      "mainClass": "app.App",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ArrayCopier<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.ArrayCopier",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-DayCounter<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.DayCounter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-EqualsTester<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.EqualsTester",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HalfDollars<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.HalfDollars",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-HalfLooper<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.HalfLooper",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MarsApplication<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.MarsApplication",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Operators<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.Operators",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Passer<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.Passer",
+      "projectName": "java21days",
+      "args": [
+        "hello",
+        "world"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-PointSetter<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.PointSetter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RangeLister<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.RangeLister",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-RefTester<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.RefTester",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-StringChecker<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.StringChecker",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-TokenTester<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.TokenTester",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Variables<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.Variables",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Weather<java21days>",
+      "request": "launch",
+      "mainClass": "java21days.Weather",
+      "projectName": "java21days"
+    }
+  ]
+}
