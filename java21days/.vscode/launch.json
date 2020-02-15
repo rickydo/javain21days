@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - NamedPoint",
+      "request": "launch",
+      "mainClass": "java21days.NamedPoint",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SubPrinter",
+      "request": "launch",
+      "mainClass": "java21days.SubPrinter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Box2",
       "request": "launch",
       "mainClass": "java21days.Box2",
