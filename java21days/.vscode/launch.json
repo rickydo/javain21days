@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - GiftShop",
+      "request": "launch",
+      "mainClass": "ecommerce.GiftShop",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InstanceCounter",
+      "request": "launch",
+      "mainClass": "java21days.InstanceCounter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - NamedPoint",
       "request": "launch",
       "mainClass": "java21days.NamedPoint",
