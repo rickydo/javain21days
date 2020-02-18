@@ -6,6 +6,40 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Temp",
+      "request": "launch",
+      "mainClass": "java21days.Temp",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GFG",
+      "request": "launch",
+      "mainClass": "java21days.GFG",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PrimeThreads",
+      "request": "launch",
+      "mainClass": "java21days.PrimeThreads",
+      "projectName": "java21days",
+      "args": [
+        "5000",
+        "12000",
+        "50000",
+        "120000"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HexReader",
+      "request": "launch",
+      "mainClass": "java21days.HexReader",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - GiftShop",
       "request": "launch",
       "mainClass": "ecommerce.GiftShop",
