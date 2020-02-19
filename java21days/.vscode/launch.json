@@ -6,6 +6,35 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ComicBooks",
+      "request": "launch",
+      "mainClass": "java21days.ComicBooks",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CodeKeeper",
+      "request": "launch",
+      "mainClass": "java21days.CodeKeeper",
+      "projectName": "java21days",
+      "args": [
+        "my",
+        "secret",
+        "code"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HolidaySked",
+      "request": "launch",
+      "mainClass": "java21days.HolidaySked",
+      "projectName": "java21days",
+      "args": [
+        106
+      ]
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Temp",
       "request": "launch",
       "mainClass": "java21days.Temp",
