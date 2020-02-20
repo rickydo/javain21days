@@ -6,6 +6,14 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Palindrome",
+      "request": "launch",
+      "mainClass": "java21days.Palindrome",
+      "projectName": "java21days",
+      "args": ["sweetness"]
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ComicBooks",
       "request": "launch",
       "mainClass": "java21days.ComicBooks",
