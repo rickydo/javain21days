@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ButtonFrame",
+      "request": "launch",
+      "mainClass": "java21days.ButtonFrame",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SimpleFrame",
+      "request": "launch",
+      "mainClass": "java21days.SimpleFrame",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - MissingNumberInArray",
       "request": "launch",
       "mainClass": "java21days.MissingNumberInArray",
