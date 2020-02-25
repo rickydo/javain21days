@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - FormatFrame",
+      "request": "launch",
+      "mainClass": "java21days.FormatFrame",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Authenticator",
+      "request": "launch",
+      "mainClass": "java21days.Authenticator",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - IconFrame",
+      "request": "launch",
+      "mainClass": "java21days.IconFrame",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ButtonFrame",
       "request": "launch",
       "mainClass": "java21days.ButtonFrame",
