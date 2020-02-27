@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Alphabet",
+      "request": "launch",
+      "mainClass": "java21days.Alphabet",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TabPanels",
       "request": "launch",
       "mainClass": "java21days.TabPanels",
