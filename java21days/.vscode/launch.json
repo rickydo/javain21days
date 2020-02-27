@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TabPanels",
+      "request": "launch",
+      "mainClass": "java21days.TabPanels",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ProgressMonitor",
+      "request": "launch",
+      "mainClass": "java21days.ProgressMonitor",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FeedBar",
+      "request": "launch",
+      "mainClass": "java21days.FeedBar",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Slider",
+      "request": "launch",
+      "mainClass": "java21days.Slider",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - FeedInfo",
       "request": "launch",
       "mainClass": "java21days.FeedInfo",
