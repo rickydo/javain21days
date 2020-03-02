@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - SurveyFrame",
+      "request": "launch",
+      "mainClass": "java21days.SurveyFrame",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Border",
+      "request": "launch",
+      "mainClass": "java21days.Border",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Bunch",
+      "request": "launch",
+      "mainClass": "java21days.Bunch",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Stacker",
+      "request": "launch",
+      "mainClass": "java21days.Stacker",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Alphabet",
       "request": "launch",
       "mainClass": "java21days.Alphabet",
