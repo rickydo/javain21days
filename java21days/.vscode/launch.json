@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - MousePrank",
+      "request": "launch",
+      "mainClass": "java21days.MousePrank",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FormatChooser",
+      "request": "launch",
+      "mainClass": "java21days.FormatChooser",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Calculator",
+      "request": "launch",
+      "mainClass": "java21days.Calculator",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TitleBar",
+      "request": "launch",
+      "mainClass": "java21days.TitleBar",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - SurveyFrame",
       "request": "launch",
       "mainClass": "java21days.SurveyFrame",
