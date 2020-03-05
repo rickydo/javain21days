@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - KeyChecker",
+      "request": "launch",
+      "mainClass": "java21days.KeyChecker",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - MousePrank",
       "request": "launch",
       "mainClass": "java21days.MousePrank",
