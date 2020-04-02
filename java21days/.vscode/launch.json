@@ -6,6 +6,16 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TextFrame",
+      "request": "launch",
+      "mainClass": "java21days.TextFrame",
+      "projectName": "java21days",
+      "args": [
+        "Howdy", "Courier New"
+      ]
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - KeyChecker",
       "request": "launch",
       "mainClass": "java21days.KeyChecker",
