@@ -6,12 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Map",
+      "request": "launch",
+      "mainClass": "java21days.Map",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TextFrame",
       "request": "launch",
       "mainClass": "java21days.TextFrame",
       "projectName": "java21days",
       "args": [
-        "Howdy", "Courier New"
+        "Howdy",
+        "Courier New"
       ]
     },
     {
