@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ClosureMayhem",
+      "request": "launch",
+      "mainClass": "java21days.ClosureMayhem",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CursorMayhem",
+      "request": "launch",
+      "mainClass": "java21days.CursorMayhem",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ProgressMonitor2",
+      "request": "launch",
+      "mainClass": "java21days.ProgressMonitor2",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ComicBox",
+      "request": "launch",
+      "mainClass": "java21days.ComicBox",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - MessageFrame",
       "request": "launch",
       "mainClass": "java21days.MessageFrame",
