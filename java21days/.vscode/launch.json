@@ -6,6 +6,38 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - ConsoleInput",
+      "request": "launch",
+      "mainClass": "java21days.ConsoleInput",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BufferDemo",
+      "request": "launch",
+      "mainClass": "java21days.BufferDemo",
+      "projectName": "java21days",
+      "args": [
+        3,
+        19
+      ]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ByteWriter",
+      "request": "launch",
+      "mainClass": "java21days.ByteWriter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ByteReader",
+      "request": "launch",
+      "mainClass": "java21days.ByteReader",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ClosureMayhem",
       "request": "launch",
       "mainClass": "java21days.ClosureMayhem",
