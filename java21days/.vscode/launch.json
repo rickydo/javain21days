@@ -6,6 +6,35 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - AllCapsDemo",
+      "request": "launch",
+      "mainClass": "java21days.AllCapsDemo",
+      "projectName": "java21days",
+      "args": ["AllCapsDemo.java"]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SourceReader",
+      "request": "launch",
+      "mainClass": "java21days.SourceReader",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PrimeWriter",
+      "request": "launch",
+      "mainClass": "java21days.PrimeWriter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - PrimeReader",
+      "request": "launch",
+      "mainClass": "java21days.PrimeReader",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - ConsoleInput",
       "request": "launch",
       "mainClass": "java21days.ConsoleInput",
