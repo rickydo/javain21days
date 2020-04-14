@@ -6,11 +6,40 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TimeServer",
+      "request": "launch",
+      "mainClass": "java21days.TimeServer",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Finger",
+      "request": "launch",
+      "mainClass": "java21days.Finger",
+      "projectName": "java21days",
+      "args": [
+        "icculus@icculus.org"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WebReader",
+      "request": "launch",
+      "mainClass": "java21days.WebReader",
+      "projectName": "java21days",
+      "args": [
+        "http://api.icndb.com/jokes/random?limitTo=nerdy"
+      ]
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - AllCapsDemo",
       "request": "launch",
       "mainClass": "java21days.AllCapsDemo",
       "projectName": "java21days",
-      "args": ["AllCapsDemo.java"]
+      "args": [
+        "AllCapsDemo.java"
+      ]
     },
     {
       "type": "java",
