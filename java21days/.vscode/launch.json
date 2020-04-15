@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - FingerServer",
+      "request": "launch",
+      "mainClass": "java21days.FingerServer",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BufferConverter",
+      "request": "launch",
+      "mainClass": "java21days.BufferConverter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TimeServer",
       "request": "launch",
       "mainClass": "java21days.TimeServer",
