@@ -6,6 +6,14 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - QuoteData",
+      "request": "launch",
+      "mainClass": "java21days.QuoteData",
+      "projectName": "java21days",
+      "args": ["FB"]
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - FingerServer",
       "request": "launch",
       "mainClass": "java21days.FingerServer",
