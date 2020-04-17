@@ -6,11 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - RssStarter",
+      "request": "launch",
+      "mainClass": "java21days.RssStarter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - QuoteData",
       "request": "launch",
       "mainClass": "java21days.QuoteData",
       "projectName": "java21days",
-      "args": ["FB"]
+      "args": [
+        "FB"
+      ]
     },
     {
       "type": "java",
