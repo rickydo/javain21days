@@ -6,6 +6,28 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - RssFilter",
+      "request": "launch",
+      "mainClass": "java21days.RssFilter",
+      "projectName": "java21days",
+      "args": ["https://news.ycombinator.com/rss", "coronavirus"]
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DomainWriter",
+      "request": "launch",
+      "mainClass": "java21days.DomainWriter",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - DomainEditor",
+      "request": "launch",
+      "mainClass": "java21days.DomainEditor",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - RssStarter",
       "request": "launch",
       "mainClass": "java21days.RssStarter",
