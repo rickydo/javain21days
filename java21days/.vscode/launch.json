@@ -6,11 +6,21 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - SiteClient",
+      "request": "launch",
+      "mainClass": "java21days.SiteClient",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - RssFilter",
       "request": "launch",
       "mainClass": "java21days.RssFilter",
       "projectName": "java21days",
-      "args": ["https://news.ycombinator.com/rss", "coronavirus"]
+      "args": [
+        "https://news.ycombinator.com/rss",
+        "coronavirus"
+      ]
     },
     {
       "type": "java",
