@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Banko",
+      "request": "launch",
+      "mainClass": "java21days.Banko",
+      "projectName": "java21days"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - SiteClient",
       "request": "launch",
       "mainClass": "java21days.SiteClient",
